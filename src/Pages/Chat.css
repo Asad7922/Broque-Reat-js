@@ -1,0 +1,5 @@
+/* Custom scrollbar styles */
+/* Width of the scrollbar */
+.chat-box::-webkit-scrollbar {
+    width: 0px;
+  }
